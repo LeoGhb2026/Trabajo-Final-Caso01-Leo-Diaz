@@ -82,12 +82,12 @@ A continuación se muestran algunas capturas de la aplicación desarrollada con 
 ![Análisis](Imagen3.png)
 
 ## Aplicación Desplegada
-Streamlit Cloud: "Enlace"
+Streamlit Cloud: "https://trabajo-final-caso01-leo-diaz-nias6ka7mbanelqhhbvlx8.streamlit.app/"
 ---
 
 ## Repositorio GitHub
 
-LINK: "Enlace"
+LINK: "https://github.com/LeoGhb2026/Trabajo-Final-Caso01-Leo-Diaz"
 
 ---
 
