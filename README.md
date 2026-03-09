@@ -69,20 +69,25 @@ La aplicación permite:
 La aplicación se abrirá automáticamente en tu navegador.
 
 ---
-## Imagenes de la app
 ## Interfaz de la Aplicación
 
 A continuación se muestran algunas capturas de la aplicación desarrollada con Streamlit.
 
 ### Página principal
 
-![Home App](images/imagen01.png)
+![Home App](TF/Imagen1.png)
+
 ---
+
 ### Carga del Dataset
-![Carga Dataset](images/imagen02.png)
+
+![Carga Dataset](TF/Imagen2.png)
+
 ---
+
 ### Visualización del Análisis
-![Análisis](images/imagen03.png)
+
+![Análisis](TF/Imagen3.png)
 
 
 ## Aplicación Desplegada
