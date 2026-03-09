@@ -75,20 +75,11 @@ A continuación se muestran algunas capturas de la aplicación desarrollada con 
 
 ### Página principal
 
-![Home App](TF/Imagen1.png)
+![Home App](Imagen1.png)
 
----
+![Carga Dataset](Imagen2.png)
 
-### Carga del Dataset
-
-![Carga Dataset](TF/Imagen2.png)
-
----
-
-### Visualización del Análisis
-
-![Análisis](TF/Imagen3.png)
-
+![Análisis](Imagen3.png)
 
 ## Aplicación Desplegada
 Streamlit Cloud: "Enlace"
